@@ -1,0 +1,4 @@
+TokenExpiryTime: 20
+DBTimeout: 10
+IsDBErrorLog:true
+ErrorLogMode:Debug
